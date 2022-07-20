@@ -1,5 +1,7 @@
 ## Free DevSecOps tools from Microsoft
 
+The useful list of free and open-sourced tools that Microsoft uses internally for developing products and services. 
+
 * Microsoft Threat Modeling Tool https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-feature-overview
 * Application Inspector –Static Characteristics Profiler https://github.com/Microsoft/ApplicationInspector 
 * Attack Surface Analyzer –Runtime Characteristics Profiler https://github.com/Microsoft/AttackSurfaceAnalyzer  
